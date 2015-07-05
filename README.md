@@ -1,5 +1,5 @@
 # Advanced Custom Fields: Post Type Relation
-Relative Post Type field for Advanced Custom Fields plug-in for WordPress
+Relative Post Type add-on for Advanced Custom Fields plug-in for WordPress
 
 This add-on plug-in extends the ACF relationship model to include post types. Using this field adds a Post Type meta box to the post editor for the targeted post group. Selected post types can be considered children of the current post.
 
